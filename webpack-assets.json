@@ -1,0 +1,8 @@
+{
+  "main": {
+    "js": "/angular-rpg/main.2c7dca67bf600de00d4d.bundle.js"
+  },
+  "polyfills": {
+    "js": "/angular-rpg/polyfills.2c7dca67bf600de00d4d.bundle.js"
+  }
+}
