@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#ver:5/21/2017, 4:07:40 PM
+#plugin:4.8.1
+
+CACHE:
+/angular-rpg/main.69c8d82d51f1f7104d72.bundle.js
+/angular-rpg/polyfills.f54d1277230a0e7c8f3e.bundle.js
+/angular-rpg/vendor.ebc25366416c38c9c7fd.bundle.js
+
+NETWORK:
+*
