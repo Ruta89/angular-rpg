@@ -1,11 +1,11 @@
 {
-  "vendor": {
-    "js": "/angular-rpg/vendor.ebc25366416c38c9c7fd.bundle.js"
-  },
   "main": {
-    "js": "/angular-rpg/main.f4a9a8ea773a0200ed40.bundle.js"
+    "js": "/angular-rpg/main.bundle.js"
+  },
+  "vendor": {
+    "js": "/angular-rpg/vendor.bundle.js"
   },
   "polyfills": {
-    "js": "/angular-rpg/polyfills.f54d1277230a0e7c8f3e.bundle.js"
+    "js": "/angular-rpg/polyfills.bundle.js"
   }
 }
